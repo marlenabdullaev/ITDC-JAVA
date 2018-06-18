@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="922ea87f-f75e-46d2-9b10-dfc7fadedc92" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="974" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Practice_01_Task_032" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="922ea87f-f75e-46d2-9b10-dfc7fadedc92" name="Default" comment="" />
+      <created>1528376688831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528376688831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowMa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                7       ;V`  0;V`  ø³[ÿ  @;V`  ðH[`  7     pI[`  €I[`  7 p      ’S`  7õ     7       à–S`  7@m     —S`  7       7       ¸ÁMÿ  7        —S`  P—S`  `—S`   :V`  °:V`  uzh-Hansees-419 %de     %vi     %ro     %es     %fr     %uk     %pt     %hr     %ja                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ž   Bq       3›               =      boot.efi  °!      ê  ë  ì  í  î  ï  ð  ñ  ò  ó  ô  õ  ö  ÷  ø  ù  ú  û  ü  ý  þ  ÿ                     	  
+         0      ç    #          cÀA %               &        +      1T0ãncÀA  ,      Ø=0ãncÀA         Ð                     -               0      ñ   o%  é    ;      8Ê       /      1T0ãncÀA 0               1               
+      o%   3                  	   boot.efi   4          cÀA  6      Ù=0ãncÀA 8      Ù=0ãncÀA !9      Ù=0ãncÀA  :          cÀA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              a      Hq  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       2pbd @  •(  !                      public.message    com.apple.mail.emlx    com.apple.mail.eml    com.microsoft.entourage.virtual.message    com.apple.ichat.transcript    public.contact    public.vcard    com.apple.addressbook.person 	   com.apple.addressbook.group 
+   com.microsoft.entourage.virtual.contact    com.microsoft.entourage.virtual.group    com.apple.systempreference.prefpane    public.font    public.bookmark    com.apple.safari.bookmark    com.apple.safari.history    public.to-do-item    public.calendar-event    com.apple.ical.bookmark    com.apple.ical.bookmark.todo    com.apple.ical.ics.event    com.apple.ical.ics.todo    com.microsoft.entourage.virtual.event    com.microsoft.entourage.virtual.task    public.movie    com.apple.quicktime-movie    public.mpeg-video    public.mpeg-4    public.mpeg    public.3gpp    public.3gpp2     com.apple.application-bundle !   com.apple.application-file "   com.apple.dashboard-widget #   public.folder $   com.apple.mount-point %   public.audio &   public.mpeg-4-audio '   com.apple.protected-mpeg-4-audio (   com.adobe.pdf )   com.apple.localized-pdf-bundle *   public.presentation +   com.microsoft.powerpoint.ppt ,   com.apple.keynote.key -   com.apple.iwork.keynote.key .   public.image /   com.apple.motion.project 0   com.apple.iwork.pages.pages 1   com.apple.iwork.pages.sffpages 2   com.apple.iwork.pages.template 3   com.apple.iwork.pages.sfftemplate 4   public.rtf 5   com.apple.rtfd 6   com.apple.flat-rtfd 7   com.microsoft.word.doc 8   org.khronos.collada.digital-asset-exchange 9   public.plain-text :   public.html ;   public.xhtml <   public.shell-script =   public.source-code >   public.unix-executable ?   com.apple.xcode.project @   com.apple.xcode.model A   com.apple.xcode.archive B   com.apple.xcode.docset C   com.apple.xcode.projectdata D   com.apple.xcode.dsym E   com.apple.xcode.configsettings F   com.apple.xcode.usersettings G   com.apple.xcode.strings-text H   com.apple.xcode.plugin I   com.apple.xcode.mom J   com.apple.property-list K   dyn.ah62d4rv4ge81a7dk L   dyn.ah62d4rv4ge80u5pbsa M   com.apple.dashcode.xml N   com.apple.dashcode.css O   com.apple.dashcode.javascript P   com.apple.dashcode.json Q   com.apple.dashcode.manifest R   com.apple.interfacebuilder.document S   com.apple.interfacebuilder.document.cocoa T   com.apple.rez-source U   com.apple.iphone.developerprofile V   com.apple.iphone.mobileprovision W   com.apple.coreanimation-bundle X   com.apple.coreanimation-xml Y   com.sun.java-class Z   com.apple.scripting-definition [   com.apple.dt.document.workspace \   com.apple.dt.document.scheme ]   com.apple.dt.ide.plug-in ^   com.apple.dt.dvt.plug-in _   com.apple.dt.document.snapshot `   com.apple.dt.bundle.unit-test.objective-c a   com.apple.instruments.tracetemplate b   com.apple.quartzdebug.introspectiontrace c   com.apple.applescript.text-object d   com.apple.applescript.data-object e   com.apple.applescript.url-object f   com.apple.applescript.alias-object g   com.apple.symbol-export h   com.apple.mach-o-binary i   com.apple.mach-o
